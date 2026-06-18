@@ -4,22 +4,22 @@
 
 ## First version {
 
-### https://vladimirsaenko.github.io/First-Calculator/
+### https://volodymyrsaienko240.github.io/First-Calculator/
 
-### https://github.com/VladimirSaenko/First-Calculator
+### https://github.com/volodymyrsaienko240/First-Calculator
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/First%20Calculator/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-2/sites/site-7/First%20Calculator/index.html
 
 ### }
 
 ## Portfolio {
 
-### https://vladimirsaenko.github.io/Portfolio-3/sites/site-7/Second-version-Calculator/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-3/sites/site-7/Second-version-Calculator/index.html
 
 ### }
 
 ## Codepen {
 
-### https://codepen.io/vladimirsaenko/pen/KKQmLEe
+### https://codepen.io/volodymyrsaienko240/pen/KKQmLEe
 
 ### }
